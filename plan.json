@@ -1,0 +1,313 @@
+{
+  "start_date": "2025-08-10",
+  "first_monday": "2025-08-11",
+  "race_date": "2025-10-19",
+  "goal_mp": "5:30/км",
+  "weekly_days": [
+    "Вт (T)",
+    "Чт (E)",
+    "Сб (L)"
+  ],
+  "weeks": [
+    {
+      "week": 1,
+      "start": "2025-08-11",
+      "sessions": [
+        {
+          "date": "2025-08-12",
+          "name": "Tempo Run",
+          "type": "T",
+          "distance_km": 6,
+          "target_pace": "5:15–5:25/км",
+          "notes": "Разм.1 км, 6 км T, зам.1 км."
+        },
+        {
+          "date": "2025-08-14",
+          "name": "Easy Run",
+          "type": "E",
+          "distance_km": 8,
+          "target_pace": "6:10–6:40/км",
+          "notes": "Лёгкий бег."
+        },
+        {
+          "date": "2025-08-16",
+          "name": "Long Run",
+          "type": "L",
+          "distance_km": 14,
+          "target_pace": "E + МТ 5:30/км",
+          "notes": "10 км E, 4 км МТ."
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "start": "2025-08-18",
+      "sessions": [
+        {
+          "date": "2025-08-19",
+          "name": "Tempo Run",
+          "type": "T",
+          "distance_km": 7,
+          "target_pace": "5:15–5:25/км",
+          "notes": "Разм./зам."
+        },
+        {
+          "date": "2025-08-21",
+          "name": "Easy Run",
+          "type": "E",
+          "distance_km": 8,
+          "target_pace": "6:10–6:40/км",
+          "notes": "Лёгкий бег."
+        },
+        {
+          "date": "2025-08-23",
+          "name": "Long Run",
+          "type": "L",
+          "distance_km": 16,
+          "target_pace": "E + МТ 5:30/км",
+          "notes": "12 км E, 4 км МТ."
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "start": "2025-08-25",
+      "sessions": [
+        {
+          "date": "2025-08-26",
+          "name": "Intervals 5×1 км",
+          "type": "T",
+          "distance_km": 8,
+          "target_pace": "инт: 5:05–5:10/км",
+          "notes": "Разм.2 км, 5×1 км (400 м лёгко), зам.1 км."
+        },
+        {
+          "date": "2025-08-28",
+          "name": "Easy Run",
+          "type": "E",
+          "distance_km": 9,
+          "target_pace": "6:10–6:40/км",
+          "notes": "Лёгкий бег."
+        },
+        {
+          "date": "2025-08-30",
+          "name": "Long Run",
+          "type": "L",
+          "distance_km": 18,
+          "target_pace": "E + МТ 5:30/км",
+          "notes": "14 км E, 4 км МТ."
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "start": "2025-09-01",
+      "sessions": [
+        {
+          "date": "2025-09-02",
+          "name": "Tempo Run",
+          "type": "T",
+          "distance_km": 6,
+          "target_pace": "5:15–5:25/км",
+          "notes": "Короткая T."
+        },
+        {
+          "date": "2025-09-04",
+          "name": "Easy Run",
+          "type": "E",
+          "distance_km": 8,
+          "target_pace": "6:10–6:40/км",
+          "notes": "Лёгко."
+        },
+        {
+          "date": "2025-09-06",
+          "name": "10K Test",
+          "type": "T",
+          "distance_km": 10,
+          "target_pace": "цель 5:05–5:15/км",
+          "notes": "Тест 10 км (разм./зам. по 1 км вне дистанции)."
+        }
+      ]
+    },
+    {
+      "week": 5,
+      "start": "2025-09-08",
+      "sessions": [
+        {
+          "date": "2025-09-09",
+          "name": "Tempo Run",
+          "type": "T",
+          "distance_km": 5,
+          "target_pace": "5:15–5:25/км",
+          "notes": "Поддержка."
+        },
+        {
+          "date": "2025-09-11",
+          "name": "Easy Run",
+          "type": "E",
+          "distance_km": 7,
+          "target_pace": "6:10–6:40/км",
+          "notes": "Лёгко."
+        },
+        {
+          "date": "2025-09-13",
+          "name": "Long Run",
+          "type": "L",
+          "distance_km": 14,
+          "target_pace": "E",
+          "notes": "Ровно легко."
+        }
+      ]
+    },
+    {
+      "week": 6,
+      "start": "2025-09-15",
+      "sessions": [
+        {
+          "date": "2025-09-16",
+          "name": "Tempo Run",
+          "type": "T",
+          "distance_km": 8,
+          "target_pace": "5:15–5:25/км",
+          "notes": "Разм./зам."
+        },
+        {
+          "date": "2025-09-18",
+          "name": "Easy Run",
+          "type": "E",
+          "distance_km": 9,
+          "target_pace": "6:10–6:40/км",
+          "notes": "Лёгко."
+        },
+        {
+          "date": "2025-09-20",
+          "name": "Long Run",
+          "type": "L",
+          "distance_km": 22,
+          "target_pace": "E + МТ 5:30/км",
+          "notes": "16 км E, 6 км МТ."
+        }
+      ]
+    },
+    {
+      "week": 7,
+      "start": "2025-09-22",
+      "sessions": [
+        {
+          "date": "2025-09-23",
+          "name": "Tempo Run",
+          "type": "T",
+          "distance_km": 6,
+          "target_pace": "5:15–5:25/км",
+          "notes": "Короткая T."
+        },
+        {
+          "date": "2025-09-25",
+          "name": "Easy Run",
+          "type": "E",
+          "distance_km": 8,
+          "target_pace": "6:10–6:40/км",
+          "notes": "Лёгко."
+        },
+        {
+          "date": "2025-09-27",
+          "name": "Long Progression 24 км",
+          "type": "L",
+          "distance_km": 24,
+          "target_pace": "E → МТ → чуть быстрее",
+          "notes": "16 км E, 4 км МТ 5:30, 4 км 5:20–5:25."
+        }
+      ]
+    },
+    {
+      "week": 8,
+      "start": "2025-09-29",
+      "sessions": [
+        {
+          "date": "2025-09-30",
+          "name": "Intervals 6×1 км",
+          "type": "T",
+          "distance_km": 9,
+          "target_pace": "инт: 5:05–5:10/км",
+          "notes": "Разм.2 км, 6×1 км, зам.1 км."
+        },
+        {
+          "date": "2025-10-02",
+          "name": "Easy Run",
+          "type": "E",
+          "distance_km": 9,
+          "target_pace": "6:10–6:40/км",
+          "notes": "Лёгко."
+        },
+        {
+          "date": "2025-10-04",
+          "name": "Long Run",
+          "type": "L",
+          "distance_km": 26,
+          "target_pace": "E + МТ 5:30/км",
+          "notes": "20 км E, 6 км МТ."
+        }
+      ]
+    },
+    {
+      "week": 9,
+      "start": "2025-10-06",
+      "sessions": [
+        {
+          "date": "2025-10-07",
+          "name": "5K Test",
+          "type": "T",
+          "distance_km": 5,
+          "target_pace": "цель 4:55–5:05/км",
+          "notes": "Тест 5 км (разм./зам. вне дистанции)."
+        },
+        {
+          "date": "2025-10-09",
+          "name": "Easy Run",
+          "type": "E",
+          "distance_km": 8,
+          "target_pace": "6:10–6:40/км",
+          "notes": "Лёгко."
+        },
+        {
+          "date": "2025-10-11",
+          "name": "Long Run Peak 30 км",
+          "type": "L",
+          "distance_km": 30,
+          "target_pace": "E + МТ 5:30/км",
+          "notes": "22 км E, 8 км МТ."
+        }
+      ]
+    },
+    {
+      "week": 10,
+      "start": "2025-10-13",
+      "sessions": [
+        {
+          "date": "2025-10-14",
+          "name": "Tempo Run",
+          "type": "T",
+          "distance_km": 5,
+          "target_pace": "5:15–5:25/км",
+          "notes": "Коротко."
+        },
+        {
+          "date": "2025-10-16",
+          "name": "Easy Run",
+          "type": "E",
+          "distance_km": 6,
+          "target_pace": "6:10–6:40/км",
+          "notes": "Лёгко."
+        },
+        {
+          "date": "2025-10-18",
+          "name": "Easy Run",
+          "type": "E",
+          "distance_km": 8,
+          "target_pace": "6:10–6:40/км",
+          "notes": "Свежесть."
+        }
+      ]
+    }
+  ]
+}
